@@ -5,6 +5,6 @@
 
 ## Actividades
 
-- [Actividad 1](https://lopezemmanuel.github.io/BootCamp_FrontEnd/Actividad_1/index.html)
-- [Actividad 2](https://github.com/lopezemmanuel/BootCamp_FrontEnd/tree/main/Actividad_2)
-- [Actividad 3](https://github.com/lopezemmanuel/BootCamp_FrontEnd/tree/main/Actividad_3)
+- [Actividad 1](https://emlopezr.github.io/unal-2023-dinara-bootcamp-actividades/Actividad_1/index.html)
+- [Actividad 2](https://github.com/emlopezr/unal-2023-dinara-bootcamp-actividades/tree/main/Actividad_2)
+- [Actividad 3](https://github.com/emlopezr/unal-2023-dinara-bootcamp-actividades/tree/main/Actividad_3)
